@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FamousQuotesAndroid</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    
+    <string name="lblListQuotes">List Quotes</string>
+    <string name="lbl_AddQuote">Add Quote</string>
+    <string name="lbl_AboutApp">About App</string>
+    <string name="lbl_Add">Add</string>
+    
+    <string name="lbl_AuthorName">Author Name</string>
+    <string name="lbl_Message">Message</string>
+
+</resources>
